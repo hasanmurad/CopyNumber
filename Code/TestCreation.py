@@ -1,7 +1,7 @@
 import random
 Lower_Limit = 1
 Upper_Limit = 2
-Total_Copy  = 5
+Total_Copy = 5
 
 Reference_File = open("reference.fasta","r")
 Test_File = open("test.fasta","w")
